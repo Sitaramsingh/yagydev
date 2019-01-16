@@ -1,0 +1,15 @@
+.helptable {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+ .helpthdead td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+.helptbody :nth-child(even) {
+    background-color: #dddddd;
+  }
